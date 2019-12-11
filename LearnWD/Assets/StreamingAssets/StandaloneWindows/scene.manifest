@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1753398284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05ec5cc97d6bf9b097b45171cbb6d32c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/ABPackage/Scenes/Main.unity
+Dependencies:
+- G:/Projects/Unity2018.2.1f1/LearnWD/AssetBundles/StandaloneWindows/bbb

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3724073218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bdea0dc6b81b85cd6e1bc691d851ef5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/ABPackage/Scenes/Main 1.unity
+- Assets/ABPackage/Scenes/Main.unity
+Dependencies:
+- G:/Projects/Unity2018.2.1f1/LearnWD/Assets/ABPackage/AssetBundles/prefab.0
